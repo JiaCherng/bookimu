@@ -1,0 +1,10 @@
+#yaml/yml stores an array of items
+#data file available using site.data.<file name>
+
+
+- name: Home
+  link: /
+- name: About
+  link: /about.html
+- name: Blog
+  link: /blog.html
