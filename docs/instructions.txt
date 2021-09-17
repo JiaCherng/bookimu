@@ -1,0 +1,7 @@
+jekyll build
+-builds site and output to _site
+jekyll serve --livereload
+-runs it on server (and build first)
+-livereload optional
+
+but add bundle exec to make sure running same jekyll version
