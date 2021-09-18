@@ -3,8 +3,8 @@
 
 
 - name: Home
-  link: /
+  link: /bookimu/
 - name: About
-  link: /about.html
+  link: /bookimu/about.html
 - name: Blog
-  link: /blog.html
+  link: /bookimu/blog.html
