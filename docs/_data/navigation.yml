@@ -3,8 +3,8 @@
 
 #that on github will require /bookimu/ , but is serve on local server, would only require /
 - name: Home
-  link: /bookimu/
+  link: /
 - name: About
-  link: /bookimu/about.html
+  link: /about.html
 - name: Blog
-  link: /bookimu/blog.html
+  link: /blog.html
