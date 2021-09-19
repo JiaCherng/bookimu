@@ -8,6 +8,19 @@
       </a>
       <nav class="header__links">
         <div class="container header__links-wrapper">
+
+          <!--dropdown-->
+                    <div class='nav-item dropdown'>
+                        <a class="nav-link dropdown-toggle header__link" href="#" id="navbardrop" data-toggle="dropdown">
+                            More &#9660
+                        </a>
+                        <div class="dropdown-menu" id='dropdown'>
+                            <a class="dropdown-item" href="page4.html">Interests</a>
+                            <a class="dropdown-item" href="#">Link 2</a>
+                            <a class="dropdown-item" href="#">Link 3</a>
+                         </div>
+                        </div>
+
           {% for item in site.data.navigation %}
             <a class="header__link" href="{{ item.link | relative_url }}" itemprop="url">
               <span itemprop="name">{{ item.name }}</span>
