@@ -8,3 +8,5 @@ but add bundle exec to make sure running same jekyll version
 
 can write in html and md
 naming of posts have to follow a specific structure
+
+-testing
