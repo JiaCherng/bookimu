@@ -31,7 +31,7 @@ github_username:  jekyll
 
 # Build settings
 markdown: GFM
-remote_theme: janczizikow/sleek
+remote_theme: janczizikow/jekyll_sleek
 
 
 plugins:
