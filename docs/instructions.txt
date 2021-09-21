@@ -9,4 +9,9 @@ but add bundle exec to make sure running same jekyll version
 can write in html and md
 naming of posts have to follow a specific structure
 
--testing
+
+adding featured-img 
+-https://stackoverflow.com/questions/42308879/how-to-solve-npm-error-npm-err-code-elifecycle
+-add photos into _img/posts
+-run gulp img
+-this feature can only be run on local server
