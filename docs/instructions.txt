@@ -15,3 +15,7 @@ adding featured-img
 -add photos into _img/posts
 -run gulp img
 -this feature can only be run on local server
+
+-for code snippets
+{% highlight ruby %}
+{% endhighlight %}
