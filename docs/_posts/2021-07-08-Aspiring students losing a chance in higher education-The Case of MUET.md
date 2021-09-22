@@ -2,6 +2,7 @@
 layout: post
 title: Aspiring students losing a chance in higher education-The Case of MUET
 featured-img: muet
+categories: Education 
 ---
 A lack of foresight and sympathy by Majlis Peperiksaan Malaysia (MPM) has left students in limbo. The Malaysian University English Test, MUET by MPM is a requirement for students seeking admission to public universities. While applauding the efforts of MPM in recent years to set up more sessions of MUET on Demand which differ from the original MUET in that results are released within 3 weeks rather than 3 months, MPM has been slow and ineffective in tackling the unique situation brought about by the pandemic. With the end of MCO not coming anytime soon, MPM has released on its official Facebook page on 27 June that the original MUET on Demand session scheduled respectively on 20 June and 3 July will be postponed to 25 September. 
 

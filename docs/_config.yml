@@ -21,9 +21,7 @@
 title: What is happening by Jack
 email: brightnightsdarklights@example.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  My two cents on what is happening in the country
 #baseurl: "/bookimu/" # the subpath of your site, e.g. /blog
 #url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
@@ -43,18 +41,17 @@ social:
     - https://github.com/benbalter
     - https://keybase.io/benbalter
 tagline: >
-  Two cents on what is happening in the country
+  My two cents on what is happening in the country
 
 hero_img: posts/sleek_lg.jpeg # Main background image: use the path from /assets/img/ => This will output /assets/img/posts/sleek_lg.jpeg
 
-email: your-email@domain.com # email for form submission
 
-twitter_username: jan_czizikow # replace with your_twitter_username or comment to remove link from footer
-github_username:  janczizikow # replace with your_github_username or comment to remove link from footer
-instagram_username: shanlongjj # replace with your_instagram_username or comment to remove link from footer
+twitter_username: jio # replace with your_twitter_username or comment to remove link from footer
+github_username:  ioj # replace with your_github_username or comment to remove link from footer
+instagram_username: oji # replace with your_instagram_username or comment to remove link from footer
 
 disqus:
-  shortname: janczizikow # to enable comments replace with your_disqus_shortname
+  shortname: jio # to enable comments replace with your_disqus_shortname
 
 # google_tag_manager: GTM-XXXXXXX # Uncomment to enable GTM. Replace GTM-XXXXXXX with your GTM container ID
 

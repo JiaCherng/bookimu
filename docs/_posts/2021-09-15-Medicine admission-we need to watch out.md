@@ -2,6 +2,7 @@
 layout: post
 title: Medicine admission-we need to watch out
 featured-img: unimalaya
+categories: Education
 ---
 
 Sharp at 12.00pm today, I clicked on the link provided by UPU (University Placement Unit) to check if I am admitted to any public universities in Malaysia. I got a grand total of 0 offers out of my nine choices. It is unfortunate to say that I was not surprised, merely disappointed. <br><br>

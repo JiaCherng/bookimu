@@ -2,6 +2,7 @@
 layout: post
 title: Touch 'n Go card becoming dormant - GLCs have to do a better job in this pandemic
 featured-img: touchngo
+categories: Daily_life
 ---
   Just a few days ago, on the day before my vaccination appointment, I was going through a checklist of things I needed to bring along for the appointment. When I reached “Touch ‘n Go” card (it’s a requirement pretty much anytime you travel around KL/Klang Valley), I had a jolt of realisation. It has been a long time since I last used the card and I had a vague recollection that a cad will become dormant after some period of activity. A few years ago, most tolls in Klang Valley have abolished the use of ‘tunai’ booths. I did not want to be that one person to hold up a whole line of cars at a toll booth, with cars honking behind me. I immediately went online to check the status of my card after registering on Touch ‘n Go eportal and breathed a sigh of relief when it showed that there was still 18 days before my card expires.
 

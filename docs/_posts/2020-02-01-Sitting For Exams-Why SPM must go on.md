@@ -2,6 +2,7 @@
 layout: post
 title: Sitting For Exams-Why SPM must go on
 featured-img: exam
+categories: Education 
 ---
  After the Ministry of Education has allowed students in Form 5 last year to return to school to better prepare themselves for sitting SPM in the February/March, we’ve seen many complaints from students and parents alike, with petitions sprouting out in change.org and submissions from parents to news sites.
 

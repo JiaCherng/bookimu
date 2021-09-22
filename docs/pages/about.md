@@ -5,4 +5,4 @@ permalink: /about/
 ---
 # About page
 
-This page tells you a little bit about me.
+A page to record a few articles I wrote on some selected issues happening in Malaysia and around the world.

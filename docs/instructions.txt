@@ -19,3 +19,5 @@ adding featured-img
 -for code snippets
 {% highlight ruby %}
 {% endhighlight %}
+
+shift+alt+f to auto indent html
