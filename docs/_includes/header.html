@@ -37,7 +37,7 @@
             <!--dropdown menu-->
             <div class="dropdown-menu" id='dropdown'>
               {% for post in tag[1] %}
-              <a class="dropdown-item" href="{{ post.url }}" itemprop="url">
+              <a class="dropdown-item" href="{{ post.url | relative_url}}" itemprop="url">
                 <span itemprop="name">{{ post.title }}</span>
               </a>
               {% endfor %}
