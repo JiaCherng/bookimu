@@ -43,7 +43,7 @@ social:
 tagline: >
   My two cents on what is happening in the country
 
-hero_img: posts/sleek_lg.jpeg # Main background image: use the path from /assets/img/ => This will output /assets/img/posts/sleek_lg.jpeg
+hero_img: posts/flag_lg.jpeg # Main background image: use the path from /assets/img/ => This will output /assets/img/posts/sleek_lg.jpeg
 
 
 twitter_username: jio # replace with your_twitter_username or comment to remove link from footer
