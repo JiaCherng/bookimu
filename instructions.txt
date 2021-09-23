@@ -21,5 +21,3 @@ adding featured-img
 {% endhighlight %}
 
 shift+alt+f to auto indent html
-
-test
