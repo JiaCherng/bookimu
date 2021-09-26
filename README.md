@@ -1,7 +1,7 @@
 # What is Happening by Jack
 ## Website URL: https://jiacherng.github.io/what-is-happening/
-#### Video Demo:  <URL HERE>
-#### Description:
+#### Video Demo:  https://youtu.be/nZtDJaghuAY
+### Description:
 
 Set up a blog using Jekyll with Github pages.
 
@@ -26,6 +26,6 @@ was introduce to Jekyll.
 11. Tried to set up a page that wasn't the index page using permalink as .../index.html/, while the home/index page remain as .../. It did not work as .../ loads index.html instead.
     Most likely a system default that loads index.html as the default page whenever we visit the naked page url. Had to change index.html to menu.html.
 
-Project has less coding but a lot of small problems cropped out along the way. Understood the complexities of coding along with the many nuances, small erros that
+####Conclusion: Project has less coding but a lot of small problems cropped out along the way. Understood the complexities of coding along with the many nuances, small errors that
 are hard to pick up. Was introduced to many languages such as Ruby, scss, markdown, and yml.
 
