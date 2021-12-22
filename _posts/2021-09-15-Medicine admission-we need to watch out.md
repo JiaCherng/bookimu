@@ -12,14 +12,14 @@ Sharp at 12.00pm today, I clicked on the link provided by UPU (University Placem
 
 Just to put it out here first, my first choice was the highly competitive medicine program in Universiti Malaya, with my 2nd to 4th choice being medicine in different universities as well. I know what is going through all your minds now—“only results good not confirm can get into UM”, “UM competition so fierce, didn’t give offer to you also normal”, “4 flat, 4 A* are a dime a dozen”—the above arguments are by and large correct, but do take a moment to read on before giving judgement. Universiti Malaya has more of a stringent requirement for its medicine program compared to other universities, with an additional test, the BMAT (Biomedical admission test) required. BMAT is a test set out and marked by Cambridge Assessment, with most universities in the UK requiring it for medicine applicants. As it is a standardised test taken by all applicants, it plays a heavy weight in all these universities in deciding who to call up for interviews and who to admit. <br><br><br><br>
 
-![My BMAT scores]({{'/assets/img/inpost/mybmat.jpg' | relative_url}})<br>
+![My BMAT scores]({{'/assets/img/attachment/mybmat.jpg' | relative_url}})<br>
 (My BMAT scores) <br><br>
 
-![BMAT scores of Malaysians in 2020]({{'/assets/img/inpost/malaysianbmat2020.jpg' | relative_url}})<br>
+![BMAT scores of Malaysians in 2020]({{'/assets/img/attachment/malaysianbmat2020.jpg' | relative_url}})<br>
 (The [BMAT scores of Malaysians in 2020](https://www.whatdotheyknow.com/request/bmat_2021_statistics#incoming-1775341), highlighted is my score and in red is where I ranked among Malaysians who took BMAT. UM admits more than 100 students per year—official figure and are not released.) <br><br>
 
 
-![Cambridge BMAT score]({{'/assets/img/inpost/cambridgebmat2020.jpg' | relative_url}})<br>
+![Cambridge BMAT score]({{'/assets/img/attachment/cambridgebmat2020.jpg' | relative_url}})<br>
 (Highlighted is the [average score of BMAT of successful Cambridge medicine applicants for 2020 intake](https://oxbridgeapplications.com/blog/good-admissions-test-score/)) <br><br><br>
 
 
