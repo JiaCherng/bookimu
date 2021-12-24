@@ -21,9 +21,9 @@ categories: Daily_life
 
 
 
-<img src="{{'/assets/img/inpost/tngtnc1.png' | relative_url}}"
-     alt="Terms and Conditions 1" style="swidth:636px;height:200px;">
-<img src="{{'/assets/img/inpost/tngtnc2.png' | relative_url}}"
+<img src="{{'/assets/img/attachment/tngtnc1.png' | relative_url}}"
+     alt="Terms and Conditions 1" style="width:636px;height:200px;">
+<img src="{{'/assets/img/attachment/tngtnc2.png' | relative_url}}"
      alt="Terms and Conditions 2" style="width:636px;height:229px;">
 
-(Source: <a href="{{'/assets/img/inpost/tnc.pdf' | relative_url}}">Master Terms and Conditions</a>)
+(Source: <a href="{{'/assets/img/attachment/tnc.pdf' | relative_url}}">Master Terms and Conditions</a>)
